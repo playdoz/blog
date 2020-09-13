@@ -16,6 +16,7 @@ spec:
         - name: moderation
           image: playdoz/moderation
 ---
+
 apiVersion: v1
 kind: Service
 metadata:

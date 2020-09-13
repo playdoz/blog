@@ -16,6 +16,7 @@ spec:
         - name: event-bus
           image: playdoz/event-bus
 ---
+
 apiVersion: v1
 kind: Service
 metadata:
